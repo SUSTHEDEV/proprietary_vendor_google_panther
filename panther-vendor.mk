@@ -740,7 +740,6 @@ PRODUCT_PACKAGES += \
     ConnMO \
     DCMO \
     DMService \
-    DeviceIntelligenceNetworkPrebuiltAstrea \
     DevicePersonalizationAiAiPrebuiltPixel2022 \
     DiagMon \
     EuiccGoogle \
